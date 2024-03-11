@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.daws74s.online # submit your host
+REDIS_HOST: redis.daws74s.online
+MYSQL_HOST: mysql.daws74s.online
+RABBITMQ_HOST: rabbitmq.daws74s.online
+CATALOGUE_HOST: catalogue.daws74s.online
+USER_HOST: user.daws74s.online
+CART_HOST: cart.daws74s.online
+SHIPPING_HOST: shipping.daws74s.online
+PAYMENT_HOST: payment.daws74s.online
+DISPATCH_HOST: dispatch.daws74s.online

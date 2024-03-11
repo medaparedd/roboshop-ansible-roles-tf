@@ -1,0 +1,12 @@
+MONGODB_HOST: mongodb-prod.daws74s.online  # submit your host
+REDIS_HOST: redis-prod.daws74s.online 
+MYSQL_HOST: mysql-prod.daws74s.online 
+RABBITMQ_HOST: rabbitmq-prod.daws74s.online 
+CATALOGUE_HOST: catalogue-prod.daws74s.online 
+USER_HOST: user-prod.daws74s.online 
+CART_HOST: cart-prod.daws74s.online 
+SHIPPING_HOST: shipping-prod.daws74s.online 
+PAYMENT_HOST: payment-prod.daws74s.online 
+DISPATCH_HOST: dispatch-prod.daws74s.online
+NEXUS_URL: http://172.31.15.118:8081/repository
+group_id: "com/roboshop"
